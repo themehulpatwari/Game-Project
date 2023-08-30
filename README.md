@@ -38,6 +38,12 @@ Contributions are welcome! If you have improvements or new features to add to an
 
 - Special thanks to the Pygame community for their valuable resources and documentation.
 - Game assets and sounds obtained from [OpenGameArt](https://opengameart.org/) and [Freesound](https://freesound.org/).
+- The images and sound of the space shooter were taken from the artist mention below.
+
+## Artist Details:
+Space shooter sound fx pack 1 by Dravenx
+Contact info : jdravenx@yahoo.com
+http://www.dravenxgames.com
 
 ---
 
